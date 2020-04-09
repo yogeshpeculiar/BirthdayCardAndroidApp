@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textcolor" parent="android:Theme">
+        <item name="android:textColor">#e3dbd8</item>
+    </style>
+</resources>
